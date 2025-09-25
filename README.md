@@ -2,7 +2,7 @@
 
 A comprehensive MERN stack application that leverages AI to help users analyze, summarize, and compare products from various sources. Built with React frontend, Node.js/Express backend, MongoDB database, and Google Gemini AI integration.
 
-## Github Link: 
+## Github Link: https://github.com/simrandora10/CompareAI
 
 ## 🚀 Features
 
