@@ -4,6 +4,8 @@ A comprehensive MERN stack application that leverages AI to help users analyze, 
 
 ## Github Link: https://github.com/simrandora10/CompareAI
 
+# Video Link: https://drive.google.com/file/d/1pX2NpwKn7XmsXocBb9wGmOuS_43YPo48/view?usp=sharing
+
 ## 🚀 Features
 
 - **User Authentication**: Secure JWT-based authentication system
